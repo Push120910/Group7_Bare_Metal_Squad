@@ -1,0 +1,2 @@
+# Group7_Bare_Metal_Squad
+SDP_Activity
